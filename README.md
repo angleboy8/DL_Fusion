@@ -13,3 +13,5 @@ plementations represent an improvement in the results, being TV-loss
 more efective for databases with high spatial resolution per pixel, and
 TV-loss plus Smooth L1-loss with better results for databases with lower
 resolution.
+
+(More information in the file Paper.pdf)
